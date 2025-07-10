@@ -1,0 +1,56 @@
+Last updated: June 23, 2025
+Goumri Zakaria
+/githubgithub.com/Zaki-goumri /codeportfolio /linkedinlinkedin.com/in/zakariagoumri /envel⌢pezakariagoumri213@gmail.com
+♂phone0560620999
+Professional Summary
+Backend Software Engineer with 2+ years of experience specializing in Node.js andNestJS development. Proven track
+record in building scalable event management systems, implementing real-time features, and developing robust REST APIs.
+Currently pursuing a Higher School degree in Computer Science with expertise in PostgreSQL ,microservices and
+monolithic architecture , and CI/CD pipelines . Passionate about backend development and system design.
+Professional Experience
+Portals - Event Management Platform Feb 2025 - May 2025
+Backend Developer (Remote) Freelance
+•Developed backend services for a large-scale event management platform using NestJS andPostgreSQL
+•Implemented real-time notification system using Server-Sent Events (SSE) for instant event updates
+•Built comprehensive analytics dashboard and agenda management system with REST API architecture
+•Collaborated with a 4-member development team using Prisma ORM for efficient database operations
+•Designed and optimized database schemas to handle high-volume event data and user interactions
+Education
+Higher National School of Computer Science 08 May 1945, Sidi Bel Abb` es Sep 2023 - Present
+Higher School Degree in Computer Science Expected Graduation: 2028
+•Specializing in software engineering with focus on backend development and system architecture
+•Relevant coursework: Algorithms, Data Structures, Database Systems, Software Engineering, Web Development
+•Active participant in hackathons with recognition for problem-solving and teamwork skills
+Technical Skills
+Backend Technologies: NestJS, Express.js, Node.js, REST API, Microservices Architecture
+Databases: PostgreSQL, MongoDB, Redis, Prisma ORM, ElasticSearch
+Programming Languages: JavaScript, TypeScript, Python
+DevOps & Tools: Docker, Linux, GitHub Actions (CI/CD), Git
+Frontend (Supporting): React.js, Next.js, Tailwind CSS
+Concepts: Object-Oriented Programming, Database Design, System Design, Design Patterns
+Collaboration Tools: GitHub, Jira, Slack, ClickUp, Figma
+Notable Projects
+GrowPath - Student-Company Matching Platform |React, TypeScript, Vite, Tailwind CSS 2025
+•Led frontend development for university capstone project connecting students with companies for internships
+•Built responsive platform enabling companies to post real-world challenges and discover talented students
+•Collaborated with 5-member team (2 frontend, 3 backend) to deliver project-based recruitment solution
+•Implemented modern UI/UX with TypeScript for type safety and improved development experience
+IntelliPower - AI-Powered Security System |MQTT, IoT, Face Recognition, Real-time Data 2024
+•Developed smart security system integrating AI-powered face recognition with IoT devices
+•Built system architecture for handling multiple security sensors and surveillance components, render them in 3D
+model
+•Created comprehensive documentation and open-source repository showcasing technical implementation
+Trackiny - Freight Transport Management |React, Next.js, Firebase, React Leaflet Jan 2025
+•Developed automated freight transport management platform during hackathon competition
+•Implemented real-time driver tracking system with integrated mapping using React Leaflet
+•Built responsive dashboard for logistics management with real-time location updates
+•Utilized Firebase for real-time database and Zustand for efficient state management
+Boumerdes Smart City (BSC) |Next.js, Express.js, MongoDB, Chart.js Nov 2024
+•Created tourism platform for Boumerdes city during hackathon, focusing on admin dashboard development
+•Contributed to backend development for hotel and tourist attraction reservation system
+•Implemented data visualization using Chart.js for tourism analytics and reporting
+•Collaborated with cross-functional team to deliver complete tourism management solution
+Languages
+Arabic - Native
+English - Professional
+French - Professional

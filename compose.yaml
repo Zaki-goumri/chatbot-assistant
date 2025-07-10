@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  chatbot:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_KEY:''
+    volumes:
+      - .:/app

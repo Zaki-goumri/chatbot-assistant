@@ -1,0 +1,25 @@
+Skills
+Frontend Development
+React.js
+Next.js
+HTML
+CSS
+JavaScript
+TypeScript
+Tailwind CSS
+Bootstrap
+Vite
+Backend Development
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+Firebase
+Prisma
+Socket.io
+Nestjs
+Tools & Technologies
+Git
+Docker
+Figma
+github

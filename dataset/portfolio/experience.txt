@@ -1,0 +1,44 @@
+Experience & Projects
+Boumerdes Smart City (BSC) - Hackathon Project
+Developed a tourism platform for Boumerdes visitors during a hackathon. Created an admin dashboard and contributed to backend development. The platform helps tourists find accommodations, book services, and explore tourist attractions. Features include a booking system for hotels and tourist spots, and a comprehensive dashboard for local authorities to manage tourism data.
+Next.js
+Tailwind CSS
+React
+Express.js
+MongoDB
+Portfolio Website
+Personal portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills.
+Next.js
+Tailwind CSS
+React
+Aroma Barkery
+Catalogue for a bakery. Users can browse products,Contact the bakery .
+Next.js
+Tailwind CSS
+React
+firebase
+SHOP.CO
+An e-commerce web application built using Next.js for the front end and Express.js for the back end. This project demonstrates a modern, scalable approach to online shopping platforms.
+Next.js
+Tailwind CSS
+React
+Express.js
+MongoDB
+Trackiny
+An innovative platform built with Next.js, Tailwind CSS, and TypeScript to lower costs and automate the transportation of goods. Our solution streamlines logistics and provides a dedicated driver app for real-time tracking, making the process easier and faster.
+Next.js
+Tailwind CSS
+React
+Django
+MySQL
+TypeScript
+Fast api
+Firebase
+React Leaflet
+IntelliPower
+a samrt security system ai powered use Mqtt for iot connections , face recognition, real-time data
+Next.js
+Tailwind CSS
+React
+TypeScript
+Three js

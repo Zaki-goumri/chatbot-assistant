@@ -1,0 +1,12 @@
+bs4
+requests
+PyPDF2
+langchain
+sentence-transformers
+faiss-cpu
+google-generativeai
+fastapi
+uvicorn
+BaseModel
+python-dotenv
+

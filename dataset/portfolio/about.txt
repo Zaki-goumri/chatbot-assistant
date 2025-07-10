@@ -1,0 +1,8 @@
+About Me
+Hello World! I'm ZAKARIA, a passionate computer science student at L'École supérieure en informatique 08 Mai 1945 de Sidi Bel Abbès (ESI-SBA). I love sharing my journey in the world of coding and creating elegant, user-friendly web applications.
+As a Full Stack Developer, I specialize in React development and modern web technologies. My goal is to craft beautiful, performant applications that provide great user experiences.
+Quick Facts
+🎓 Studying Computer Science at ESI-SBA
+💻 Full Stack Web Developer
+🌍 Based in Boumerdes, Algeria
+🚀 Always learning new technologies
