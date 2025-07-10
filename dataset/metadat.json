@@ -1,0 +1,78 @@
+[
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "Last updated: June 23, 2025\nGoumri Zakaria\n/githubgithub.com/Zaki-goumri /codeportfolio /linkedinlinkedin.com/in/zakariagoumri /envel\u2322pezakariagoumri213@gmail.com\n\u2642phone0560620999\nProfessional Summary\nBackend Software Engineer with 2+ years of experience specializing in Node.js andNestJS development. Proven track\nrecord in building scalable event management systems, implementing real-time features, and developing robust REST APIs."
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "Currently pursuing a Higher School degree in Computer Science with expertise in PostgreSQL ,microservices and\nmonolithic architecture , and CI/CD pipelines . Passionate about backend development and system design.\nProfessional Experience\nPortals - Event Management Platform Feb 2025 - May 2025\nBackend Developer (Remote) Freelance\n\u2022Developed backend services for a large-scale event management platform using NestJS andPostgreSQL"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "\u2022Implemented real-time notification system using Server-Sent Events (SSE) for instant event updates\n\u2022Built comprehensive analytics dashboard and agenda management system with REST API architecture\n\u2022Collaborated with a 4-member development team using Prisma ORM for efficient database operations\n\u2022Designed and optimized database schemas to handle high-volume event data and user interactions\nEducation\nHigher National School of Computer Science 08 May 1945, Sidi Bel Abb` es Sep 2023 - Present"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "Higher School Degree in Computer Science Expected Graduation: 2028\n\u2022Specializing in software engineering with focus on backend development and system architecture\n\u2022Relevant coursework: Algorithms, Data Structures, Database Systems, Software Engineering, Web Development\n\u2022Active participant in hackathons with recognition for problem-solving and teamwork skills\nTechnical Skills\nBackend Technologies: NestJS, Express.js, Node.js, REST API, Microservices Architecture"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "Databases: PostgreSQL, MongoDB, Redis, Prisma ORM, ElasticSearch\nProgramming Languages: JavaScript, TypeScript, Python\nDevOps & Tools: Docker, Linux, GitHub Actions (CI/CD), Git\nFrontend (Supporting): React.js, Next.js, Tailwind CSS\nConcepts: Object-Oriented Programming, Database Design, System Design, Design Patterns\nCollaboration Tools: GitHub, Jira, Slack, ClickUp, Figma\nNotable Projects\nGrowPath - Student-Company Matching Platform |React, TypeScript, Vite, Tailwind CSS 2025"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "\u2022Led frontend development for university capstone project connecting students with companies for internships\n\u2022Built responsive platform enabling companies to post real-world challenges and discover talented students\n\u2022Collaborated with 5-member team (2 frontend, 3 backend) to deliver project-based recruitment solution\n\u2022Implemented modern UI/UX with TypeScript for type safety and improved development experience"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "IntelliPower - AI-Powered Security System |MQTT, IoT, Face Recognition, Real-time Data 2024\n\u2022Developed smart security system integrating AI-powered face recognition with IoT devices\n\u2022Built system architecture for handling multiple security sensors and surveillance components, render them in 3D\nmodel\n\u2022Created comprehensive documentation and open-source repository showcasing technical implementation\nTrackiny - Freight Transport Management |React, Next.js, Firebase, React Leaflet Jan 2025"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "\u2022Developed automated freight transport management platform during hackathon competition\n\u2022Implemented real-time driver tracking system with integrated mapping using React Leaflet\n\u2022Built responsive dashboard for logistics management with real-time location updates\n\u2022Utilized Firebase for real-time database and Zustand for efficient state management\nBoumerdes Smart City (BSC) |Next.js, Express.js, MongoDB, Chart.js Nov 2024"
+  },
+  {
+    "source": "./dataset/cv/cv.txt",
+    "content": "\u2022Created tourism platform for Boumerdes city during hackathon, focusing on admin dashboard development\n\u2022Contributed to backend development for hotel and tourist attraction reservation system\n\u2022Implemented data visualization using Chart.js for tourism analytics and reporting\n\u2022Collaborated with cross-functional team to deliver complete tourism management solution\nLanguages\nArabic - Native\nEnglish - Professional\nFrench - Professional"
+  },
+  {
+    "source": "./dataset/portfolio/contact.txt",
+    "content": "Get in Touch\nSend Message\nConnect With Me\nGitHub\nLinkedIn\nEmail"
+  },
+  {
+    "source": "./dataset/portfolio/skills.txt",
+    "content": "Skills\nFrontend Development\nReact.js\nNext.js\nHTML\nCSS\nJavaScript\nTypeScript\nTailwind CSS\nBootstrap\nVite\nBackend Development\nNode.js\nExpress.js\nMongoDB\nPostgreSQL\nFirebase\nPrisma\nSocket.io\nNestjs\nTools & Technologies\nGit\nDocker\nFigma\ngithub"
+  },
+  {
+    "source": "./dataset/portfolio/about.txt",
+    "content": "About Me\nHello World! I'm ZAKARIA, a passionate computer science student at L'\u00c9cole sup\u00e9rieure en informatique 08 Mai 1945 de Sidi Bel Abb\u00e8s (ESI-SBA). I love sharing my journey in the world of coding and creating elegant, user-friendly web applications.\nAs a Full Stack Developer, I specialize in React development and modern web technologies. My goal is to craft beautiful, performant applications that provide great user experiences.\nQuick Facts\n\ud83c\udf93 Studying Computer Science at ESI-SBA"
+  },
+  {
+    "source": "./dataset/portfolio/about.txt",
+    "content": "\ud83c\udf93 Studying Computer Science at ESI-SBA\n\ud83d\udcbb Full Stack Web Developer\n\ud83c\udf0d Based in Boumerdes, Algeria\n\ud83d\ude80 Always learning new technologies"
+  },
+  {
+    "source": "./dataset/portfolio/experience.txt",
+    "content": "Experience & Projects\nBoumerdes Smart City (BSC) - Hackathon Project\nDeveloped a tourism platform for Boumerdes visitors during a hackathon. Created an admin dashboard and contributed to backend development. The platform helps tourists find accommodations, book services, and explore tourist attractions. Features include a booking system for hotels and tourist spots, and a comprehensive dashboard for local authorities to manage tourism data.\nNext.js\nTailwind CSS\nReact\nExpress.js\nMongoDB"
+  },
+  {
+    "source": "./dataset/portfolio/experience.txt",
+    "content": "Next.js\nTailwind CSS\nReact\nExpress.js\nMongoDB\nPortfolio Website\nPersonal portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills.\nNext.js\nTailwind CSS\nReact\nAroma Barkery\nCatalogue for a bakery. Users can browse products,Contact the bakery .\nNext.js\nTailwind CSS\nReact\nfirebase\nSHOP.CO"
+  },
+  {
+    "source": "./dataset/portfolio/experience.txt",
+    "content": "Next.js\nTailwind CSS\nReact\nfirebase\nSHOP.CO\nAn e-commerce web application built using Next.js for the front end and Express.js for the back end. This project demonstrates a modern, scalable approach to online shopping platforms.\nNext.js\nTailwind CSS\nReact\nExpress.js\nMongoDB\nTrackiny"
+  },
+  {
+    "source": "./dataset/portfolio/experience.txt",
+    "content": "Tailwind CSS\nReact\nExpress.js\nMongoDB\nTrackiny\nAn innovative platform built with Next.js, Tailwind CSS, and TypeScript to lower costs and automate the transportation of goods. Our solution streamlines logistics and provides a dedicated driver app for real-time tracking, making the process easier and faster.\nNext.js\nTailwind CSS\nReact\nDjango\nMySQL\nTypeScript\nFast api\nFirebase\nReact Leaflet\nIntelliPower"
+  },
+  {
+    "source": "./dataset/portfolio/experience.txt",
+    "content": "Fast api\nFirebase\nReact Leaflet\nIntelliPower\na samrt security system ai powered use Mqtt for iot connections , face recognition, real-time data\nNext.js\nTailwind CSS\nReact\nTypeScript\nThree js"
+  },
+  {
+    "source": "./dataset/portfolio/education.txt",
+    "content": "L'\u00c9cole sup\u00e9rieure en informatique 08 Mai 1945 de Sidi Bel Abb\u00e8s (ESI-SBA)\n2023 - Present\nStudying Computer Science with a focus on software engineering and web development. Learning advanced programming concepts, algorithms, and modern development practices."
+  }
+]
