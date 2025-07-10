@@ -1,15 +1,14 @@
 from fastapi import FastAPI
 from route import router
 import gc
-import os
 
 app = FastAPI()
 
-# Optimize FastAPI memory usage
 app.include_router(router)
 
 
 @app.get("/")
+@app.head("/")
 def root():
     return {"message": "server is running"}
 
